@@ -29,16 +29,7 @@ h3 {
   font-size: 2rem;
 }
 
-.dog {
-  color: #3b6978;
-  text-decoration: none;
-    cursor: pointer;
-   margin-top: auto;
-}
 
-.dog:hover {
-  color: #66bfbf;
-}
 
 a {
    text-decoration: none;
@@ -242,6 +233,13 @@ a:hover {
 
 .blacki:hover {
   color: #C13584;
+}
+.blackg{
+	  color: #eaf6f6;
+}
+.blackg:hover{
+	color:#4078c0;
+	
 }
 .animation{
   animation: text 5s infinite;
